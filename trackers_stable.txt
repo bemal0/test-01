@@ -52,9 +52,9 @@ udp://exodus.desync.com:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://www.torrent.eu.org:451/announce
 https://pybittrack.retiolus.net:443/announce
-udp://tracker-udp.gbitt.info:80/announce
 http://tracker1.itzmx.com:8080/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://run.publictracker.xyz:6969/announce
 udp://open.dstud.io:6969/announce
 http://open-v6.demonoid.ch:6969/announce

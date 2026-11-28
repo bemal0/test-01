@@ -42,8 +42,8 @@ http://tracker.dhitechnical.com:6969/announce
 udp://tracker.willy.pro:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 https://tracker.qingwapt.org:443/announce
-https://tracker.foreverpirates.co:443/announce
 udp://tracker.nyaa.net:6969/announce
+https://tracker.foreverpirates.co:443/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.dler.com:6969/announce
